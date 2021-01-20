@@ -20,6 +20,7 @@
 		04100EE625B832960027AAC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04100EE925B832960027AAC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		04100EEB25B832960027AAC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04100EF225B8409A0027AAC3 /* Taiyaki.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Taiyaki.playground; path = "../../Library/Autosave Information/Taiyaki.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +37,7 @@
 		04100ED625B832950027AAC3 = {
 			isa = PBXGroup;
 			children = (
+				04100EF225B8409A0027AAC3 /* Taiyaki.playground */,
 				04100EE125B832950027AAC3 /* SliderApp */,
 				04100EE025B832950027AAC3 /* Products */,
 			);
